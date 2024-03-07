@@ -1,7 +1,6 @@
 # Deep Learning Neural Networks (DNN)
 
 Delving into modern AI and machine learning paradigms. 
-----
 1. RNN
 2. LSTM
 3. ResNet
