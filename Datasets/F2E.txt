@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-
-
-    ("I am cold", "J'ai froid"),
-=======
- ("I am cold", "J'ai froid"),
->>>>>>> 3c89cba (all files)
+ "("I am cold", "J'ai froid"),
 
     ("You are tired", "Tu es fatigué"),
 
@@ -156,8 +150,4 @@
 
     ("We build a sandcastle", "Nous construisons un château de sable"),
 
-<<<<<<< HEAD
-    ("He sings in the choir", "Il chante dans le chœur")
-=======
-    ("He sings in the choir", "Il chante dans le chœur")
->>>>>>> 3c89cba (all files)
+    ("He sings in the choir", "Il chante dans le chœur")"
